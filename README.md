@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Krish
 
-<!--
-**krish-kaldev/krish-kaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Third-year Bachelor of Science (Software Development) student at Curtin University, Perth.
 
-Here are some ideas to get you started:
+- Most confident in **Swift** and **Python**, with solid **SQL**
+- Interested in app development, data and software that helps communities
+- Looking for a software or data internship in Western Australia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | What it is | Tech |
+| --- | --- | --- |
+| [Film Festivals Database](https://github.com/krish-kaldev/film-festivals-database) | Relational database with a stored procedure, trigger, view and Python client | MySQL, Python |
+
+## Contact
+
+krish.kal03@gmail.com
